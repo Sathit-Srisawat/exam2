@@ -1,0 +1,6 @@
+module Pods_exam2_exam2Tests {
+  umbrella header "Pods-exam2-exam2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
